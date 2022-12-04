@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=HRaZLCBFVDE
 The codes to calculate number of counts and RPM of a motor are uploaded in the repository.
 <img src="https://user-images.githubusercontent.com/106007058/205484760-764a4a20-3742-4fa9-900d-7b5874796da8.png" width="400" height="400">
 <img src="https://user-images.githubusercontent.com/106007058/205484764-9ef31b3f-baaf-46e3-bc34-21edfa785f65.png" width="400" height="400">
-<img src="https://user-images.githubusercontent.com/106007058/205484768-db5d3eed-c711-4704-8e8e-7118f5bd4bc5.png" width="450" height="400">
+<img src="https://user-images.githubusercontent.com/106007058/205484768-db5d3eed-c711-4704-8e8e-7118f5bd4bc5.png" width="500" height="500">
 
 
 
