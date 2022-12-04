@@ -5,7 +5,7 @@ https://rhinomc.com/products/100w-24v-dc-geared-motor/planetary-geared-motro-24v
 
 Motor specs
 
-<img src="https://user-images.githubusercontent.com/106007058/205484582-2a4d6526-4c55-4a38-8b51-59ea25b1ae2f.png" width="1000" height="1000">
+<img src="https://user-images.githubusercontent.com/106007058/205484582-2a4d6526-4c55-4a38-8b51-59ea25b1ae2f.png" width="550" height="550">
 
 ![Screenshot_20221203_191633](https://user-images.githubusercontent.com/106007058/205484591-5317ac5a-f5f4-4f26-8bd8-70e82840ccbf.png)
 
