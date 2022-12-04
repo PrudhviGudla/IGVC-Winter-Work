@@ -10,6 +10,7 @@ Motor specs
 ### Working of an optical Encoder
 
 https://www.akm.com/global/en/products/rotation-angle-sensor/tutorial/type-mechanism-2/
+
 Two pulses whose phases are shifted by a quarter cycle are generated. These two pulses are generally called phase A and phase B. The rotational direction can be determined depending on which pulse of the phase A or phase B rises first. By subtracting the number of pulses in reverse rotation, the amount of rotation can be accurately determined even if the rotational direction changes.
 
 ![Screenshot_20221203_194652](https://user-images.githubusercontent.com/106007058/205484658-cc4d6553-4217-47d9-b1be-998600061c36.png)
