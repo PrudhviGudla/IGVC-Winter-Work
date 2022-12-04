@@ -15,8 +15,8 @@ https://www.akm.com/global/en/products/rotation-angle-sensor/tutorial/type-mecha
 
 Two pulses whose phases are shifted by a quarter cycle are generated. These two pulses are generally called phase A and phase B. The rotational direction can be determined depending on which pulse of the phase A or phase B rises first. By subtracting the number of pulses in reverse rotation, the amount of rotation can be accurately determined even if the rotational direction changes.
 
-<img src="https://user-images.githubusercontent.com/106007058/205484658-cc4d6553-4217-47d9-b1be-998600061c36.png" width="400" height="400">
-<img src="https://user-images.githubusercontent.com/106007058/205484785-11c0731f-86f6-4a1a-b220-ee3f278b8f1c.png" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/106007058/205484658-cc4d6553-4217-47d9-b1be-998600061c36.png" width="450" height="400">
+<img src="https://user-images.githubusercontent.com/106007058/205484785-11c0731f-86f6-4a1a-b220-ee3f278b8f1c.png" width="450" height="400">
 
 ### Code
 https://www.youtube.com/watch?v=HRaZLCBFVDE
@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=HRaZLCBFVDE
 The codes to calculate number of counts and RPM of a motor are uploaded in the repository.
 <img src="https://user-images.githubusercontent.com/106007058/205484760-764a4a20-3742-4fa9-900d-7b5874796da8.png" width="400" height="400">
 <img src="https://user-images.githubusercontent.com/106007058/205484764-9ef31b3f-baaf-46e3-bc34-21edfa785f65.png" width="400" height="400">
-<img src="https://user-images.githubusercontent.com/106007058/205484768-db5d3eed-c711-4704-8e8e-7118f5bd4bc5.png" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/106007058/205484768-db5d3eed-c711-4704-8e8e-7118f5bd4bc5.png" width="450" height="400">
 
 
 
