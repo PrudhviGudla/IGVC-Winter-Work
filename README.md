@@ -28,6 +28,8 @@ The codes to calculate number of counts and RPM of a motor are uploaded in the r
 <img src="https://user-images.githubusercontent.com/106007058/205485371-bb3516f9-7af6-4e4a-84ce-412964308fc2.png" width="500" height="500">
 
 
+![IMG-20221205-WA0016](https://github.com/PrudhviGudla/IGVC-Winter-Work/assets/106007058/feb79f7c-6888-4618-8c2a-8b41ee24603f)
+
 
 
 
